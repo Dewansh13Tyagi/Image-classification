@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# Training outputs
+*.ckpt
+*.h5
+*.pth
+*.pt
+checkpoints/
+models/
+logs/
+runs/
+
+# Data files
+*.csv
+*.tsv
+*.npz
+*.npy
+*.hdf5
+*.pkl
+*.pickle
+
+# OS files
+.DS_Store
+Thumbs.db
+include/
+lib/
+scripts/
+share/
